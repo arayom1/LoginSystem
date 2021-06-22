@@ -1,0 +1,24 @@
+<%-- any content can be specified here e.g.: --%>
+<form action="SigninServlet" method="post">
+    <table>
+        <tbody>
+            <tr>
+                <td>User Name: </td>
+                <td><input type="text" name="userName" value="" required/></td>
+            </tr>
+            <tr>
+                <td>Password: </td>
+                <td><input type="password" name="password" value="" required/></td>
+            </tr>
+
+            <tr>
+                <td></td>
+                <td><input type="submit" value="Sign in" /></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="reset" value="Reset" /></td>
+            </tr>
+        </tbody>
+    </table>         
+</form>

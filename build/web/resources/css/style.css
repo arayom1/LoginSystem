@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 11, 2021, 6:55:19 PM
+    Author     : Arayom
+*/
+body {
+    background-color: lightblue;
+}
+
+.container{
+    margin: auto;
+    width: 50%;
+    border: 5px solid brown;
+    padding: 10px;
+}
+
+.options{
+    margin: auto;
+    width: 50%;
+}
+
+h1{
+    background-color: antiquewhite;
+    text-align: center;
+    color: black;
+}
+
+.success{
+    margin: auto;
+    width: 50%;
+    border: 5px solid brown;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}

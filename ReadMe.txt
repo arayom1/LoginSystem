@@ -14,4 +14,4 @@ directory and run the index file.
 * The application is built with the Derby database. All data are imported 
 to and exported from the Derby database. 
 
-![Alt text](screenshots/homepage.PNG)
+![/..screenshots/homepage.PNG]
